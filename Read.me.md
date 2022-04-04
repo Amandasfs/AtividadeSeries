@@ -1,4 +1,4 @@
-# 				<u>**Read.me **</u>
+# 				<u>Read.me</u>
 
 ###### 	*Atividade desenvolvida para o Bootcamp da DIO - 19/09/2021*
 
